@@ -61,7 +61,7 @@ if ($_FILES)
         }
         }
 
-echo "Загружаемое изображение $lol <br><img src= './photo/$lol'  ";
+echo "Загружаем123е изображение $lol <br><img src= './photo/$lol'  ";
 
 // else {echo "Загрузки изображения не произошло";
 // print_r($_FILES['userfile']['error']);}
